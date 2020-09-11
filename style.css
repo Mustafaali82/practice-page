@@ -23,13 +23,13 @@ a{
 a:hover{
     color: red;
 }
-.t{
+.login{
     display: flex;
     justify-content: flex-end;
     margin-top: -19px;
     margin-right: 130px;
 }
-.g{
+.signup{
     display: flex;
     justify-content: flex-end;
     margin-top: -24px;
